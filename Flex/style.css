@@ -1,0 +1,21 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+
+
+.wrapper {
+	width: 700px;
+	padding: 20px;
+	margin: auto;
+	border: 1px solid #ddd;
+}
+
+.item {
+	width: 80px;
+	height: 80px;
+	text-align: center;
+	background: #3399ff;
+	color: #fff;
+	font-size: 20px;
+	margin-bottom: 10px;
+	line-height: 80px;
+    margin-right: 10px;
+}
